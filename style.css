@@ -1,3 +1,33 @@
 body{
     font-family: 'Poppins', sans-serif;
+ 
+}
+
+h1{
+    font-size: 70px;
+    
+    
+}
+
+.container{
+    background-image: url(images/donation12.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    
+    
+}
+#anchor{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 12px 26px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: aliceblue;
+    margin-top: auto;
 }
