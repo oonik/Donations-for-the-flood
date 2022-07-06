@@ -38,6 +38,7 @@ h2{
     display: flex;
     margin-top: 40px;
     margin-bottom: 100px;
+    
 }
 .family-child{
     width: 20%;
@@ -48,6 +49,7 @@ h2{
 }
 .text-aligne{
     text-align: center;
+    
 }
 #color{
     background-color: bisque;
@@ -76,4 +78,26 @@ footer{
     border: 2px solid rgb(232, 195, 191);
     padding: 20px 15px;
     background-color: rgb(238, 191, 176);
+}
+.box{
+    width: 12%;
+    margin-left: 5%;
+    font-size: x-large;
+    font-weight: 700;
+    padding: 30px 5px;
+    box-shadow: 10px 10px 10px whitesmoke;
+    
+}
+#box-red{
+    border: 2px solid red;
+    background-color: rgb(226, 164, 164);
+}
+.text-center{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.width{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
