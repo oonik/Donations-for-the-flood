@@ -68,3 +68,12 @@ footer{
 #style{
     font-style: oblique;
 }
+.email-bar{
+    text-align: center;
+    padding: 100px;
+}
+.input{
+    border: 2px solid rgb(232, 195, 191);
+    padding: 20px 15px;
+    background-color: rgb(238, 191, 176);
+}
