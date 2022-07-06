@@ -101,3 +101,10 @@ footer{
     margin-left: 5%;
     margin-right: 5%;
 }
+#Donate{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 5px 22px ;
+    border-radius: 5px;
+    margin-top: 10%;
+}
